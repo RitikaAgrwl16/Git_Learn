@@ -4,10 +4,10 @@ def greet_user():
 
     # Define greetings in different languages
     greetings = {
+        'Hindi': 'Namaste, {}!',
         'English': 'Hello, {}!',
         'Spanish': 'Hola, {}!',
-        'French': 'Bonjur, {}!',
-        'German': 'Hallo, {}!',
+        'French': 'Salut, {}!',
     }
 
     # Ask the user to choose a language
