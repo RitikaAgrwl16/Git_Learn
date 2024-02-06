@@ -5,8 +5,8 @@ def greet_user():
     # Define greetings in different languages
     greetings = {
         'English': 'Hello, {}!',
-        'Spanish': '¡Hola, {}!',
-        'French': 'Salut, {}!',
+        'Spanish': 'Hola, {}!',
+        'French': 'Bonjur, {}!',
         'German': 'Hallo, {}!',
     }
 
